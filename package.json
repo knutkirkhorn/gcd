@@ -1,5 +1,5 @@
 {
-  "name": "gcd",
+  "name": "@knutkirkhorn/gcd",
   "version": "1.0.0",
   "description": "Get the greatest common devisor of two numbers",
   "main": "index.js",
@@ -15,6 +15,7 @@
   ],
   "author": "Knut Kirkhorn",
   "license": "MIT",
+  "repository": "https://github.com/Knutakir/gcd",
   "devDependencies": {
     "ava": "^0.23.0"
   }
