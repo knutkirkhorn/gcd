@@ -1,0 +1,21 @@
+{
+  "name": "gcd",
+  "version": "1.0.0",
+  "description": "Get the greatest common devisor of two numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "gcd",
+    "greatest",
+    "common",
+    "devisor",
+    "math"
+  ],
+  "author": "Knut Kirkhorn",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.23.0"
+  }
+}
