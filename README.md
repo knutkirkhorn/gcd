@@ -14,5 +14,8 @@ console.log(gcd(28, 2));
 // => 2
 ```
 
+## Related
+- [@knutkirkhorn/gcd-cli](https://github.com/Knutakir/gcd-cli)
+
 ## Licence
 MIT © [Knut Kirkhorn](LICENSE)
