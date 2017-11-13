@@ -14,6 +14,11 @@ console.log(gcd(28, 2));
 // => 2
 ```
 
+## API
+### gcd(number1, number2)
+Returns the gcd(greatest common devisor) of ```number1``` and ```number2```.
+The gcd is computed using the Euclidean algorithm.
+
 ## Related
 - [@knutkirkhorn/gcd-cli](https://github.com/Knutakir/gcd-cli) - CLI for this module
 
