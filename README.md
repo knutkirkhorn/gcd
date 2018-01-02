@@ -22,5 +22,5 @@ The gcd is computed using the Euclidean algorithm.
 ## Related
 - [@knutkirkhorn/gcd-cli](https://github.com/Knutakir/gcd-cli) - CLI for this module
 
-## Licence
+## License
 MIT © [Knut Kirkhorn](LICENSE)
