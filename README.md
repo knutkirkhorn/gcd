@@ -1,5 +1,5 @@
 # gcd [![Build Status](https://travis-ci.org/Knutakir/gcd.svg?branch=master)](https://travis-ci.org/Knutakir/gcd)
-Get the greatest common devisor of two numbers
+> Get the greatest common devisor of two numbers
 
 ## Installation
 ```
