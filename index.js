@@ -1,4 +1,4 @@
-'use strict;'
+'use strict';
 
 function gcd(number1, number2) {
     if (number2 === 0) {
