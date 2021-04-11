@@ -4,8 +4,12 @@
   "description": "Get the greatest common devisor of two numbers",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "ava && tsd"
   },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "keywords": [
     "gcd",
     "greatest",
@@ -17,6 +21,7 @@
   "license": "MIT",
   "repository": "https://github.com/Knutakir/gcd",
   "devDependencies": {
-    "ava": "^3.15.0"
+    "ava": "^3.15.0",
+    "tsd": "^0.14.0"
   }
 }
