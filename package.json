@@ -1,6 +1,6 @@
 {
   "name": "@knutkirkhorn/gcd",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "description": "Get the greatest common devisor of two numbers",
   "main": "index.js",
   "scripts": {
