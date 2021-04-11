@@ -1,5 +1,5 @@
-import test from 'ava';
-import gcd from '.';
+const test = require('ava');
+const gcd = require('.');
 
 test('gcd for some numbers', t => {
     t.is(gcd(416, 86), 2);
