@@ -1,4 +1,4 @@
-# gcd [![Build Status](https://travis-ci.org/Knutakir/gcd.svg?branch=master)](https://travis-ci.org/Knutakir/gcd)
+# gcd [![Build Status](https://travis-ci.org/Knutakir/gcd.svg?branch=main)](https://travis-ci.org/Knutakir/gcd)
 > Get the [greatest common devisor](https://en.wikipedia.org/wiki/Greatest_common_divisor) of two numbers
 
 ## Installation
