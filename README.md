@@ -1,4 +1,4 @@
-# gcd [![Build Status](https://travis-ci.org/Knutakir/gcd.svg?branch=main)](https://travis-ci.org/Knutakir/gcd)
+# gcd [![Build Status](https://travis-ci.org/knutkirkhorn/gcd.svg?branch=main)](https://travis-ci.org/knutkirkhorn/gcd)
 > Get the [greatest common devisor](https://en.wikipedia.org/wiki/Greatest_common_divisor) of two numbers
 
 ## Installation
@@ -20,7 +20,7 @@ Returns the gcd of ```number1``` and ```number2```.
 The gcd is computed using the [Euclidean algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm).
 
 ## Related
-- [@knutkirkhorn/gcd-cli](https://github.com/Knutakir/gcd-cli) - CLI for this module
+- [@knutkirkhorn/gcd-cli](https://github.com/knutkirkhorn/gcd-cli) - CLI for this module
 
 ## License
 MIT © [Knut Kirkhorn](LICENSE)
