@@ -5,12 +5,10 @@ Get the [greatest common devisor](https://en.wikipedia.org/wiki/Greatest_common_
 @returns The gcd of `number1` and `number2`.
 @example
 ```
-const gcd = require('@knutkirkhorn/gcd');
+import gcd from '@knutkirkhorn/gcd';
 
 console.log(gcd(28, 2));
 // => 2
 ```
 */
-declare function gcd(number1: number, number2: number): number;
-
-export = gcd;
+export default function gcd(number1: number, number2: number): number;

@@ -5,13 +5,13 @@
 ## Installation
 
 ```
-$ npm install @knutkirkhorn/gcd
+npm install @knutkirkhorn/gcd
 ```
 
 ## Usage
 
 ```js
-const gcd = require('@knutkirkhorn/gcd');
+import gcd from '@knutkirkhorn/gcd';
 
 console.log(gcd(28, 2));
 // => 2
