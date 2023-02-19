@@ -1,6 +1,6 @@
 {
   "name": "@knutkirkhorn/gcd",
-  "version": "1.1.1",
+  "version": "2.0.0",
   "description": "Get the greatest common devisor of two numbers",
   "scripts": {
     "test": "ava && tsd",
